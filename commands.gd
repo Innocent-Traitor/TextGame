@@ -22,3 +22,10 @@ const COMMANDS = {
 		"parameter1": "",
 	}
 }
+
+
+const DEBUG_COMMANDS = {
+	"OS": {
+		'name': 'asdf',
+	}
+}
