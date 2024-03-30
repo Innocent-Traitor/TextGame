@@ -1,5 +1,2 @@
-res://commands.gd
-res://scroll.gd
-res://word_list.gd
-res://Player.gd
-res://base.gd
+res://base.tscn
+res://player.tscn
