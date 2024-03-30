@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1711834685
+base.gd::GDScript::-1::1696290509::0::1::::<>CanvasLayer<>::
+base.tscn::PackedScene::8409593295761376684::1696290509::0::1::::<><>::res://base.gd<>res://scroll.gd
+commands.gd::GDScript::-1::1696288603::0::1::::<>Node<>::
+icon.svg::CompressedTexture2D::4699293053306997222::1696198665::1696198670::1::::<><>::
+line_label.tscn::PackedScene::3418868452503066523::1696203027::0::1::::<><>::
+Player.gd::GDScript::-1::1696206253::0::1::::<>Node<>::
+player.tscn::PackedScene::6266975258292675748::1696289144::0::1::::<><>::res://Player.gd
+scroll.gd::GDScript::-1::1696202260::0::1::::<>ScrollContainer<>::
+word_list.gd::GDScript::-1::1696207880::0::1::::<>Node<>::
